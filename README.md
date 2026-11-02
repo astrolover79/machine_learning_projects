@@ -1,2 +1,25 @@
-# machine_learning_projects
-Machine learning projects from my MSc in Data Science at Trinity College Dublin: regression, regularization (Lasso/Ridge), classification (logistic regression, SVM, kNN) and model selection with cross-validation. Python, scikit-learn, pandas.
+# Machine Learning Projects | MSc Data Science, Trinity College Dublin
+
+Hands-on projects from the Machine Learning module (CS7CS4), built in Python
+with scikit-learn, pandas, NumPy and matplotlib. Each project includes a
+notebook, a runnable script and the dataset.
+
+## Projects
+
+| Project | What I built | Techniques | Key result |
+|---|---|---|---|
+| [Assignment 1](./Assignment_1) | Classifiers on a 2-feature dataset | Logistic regression, linear SVM, feature engineering | <e.g. accuracy / what you found> |
+| [Assignment 2](./Assignment_2) | Regularized regression with polynomial features | Lasso, Ridge, cross-validation, hyperparameter (C) selection | <e.g. best C, how sparsity changed> |
+| [Assignment 3](./Assignment_3) | Classification with model selection | Logistic regression, kNN, cross-validation | <e.g. best k, CV error> |
+
+## Skills demonstrated
+- Model selection and tuning with k-fold cross-validation
+- Bias–variance trade-off and regularization (L1 vs L2)
+- Feature engineering (polynomial features) and evaluation (accuracy, confusion matrix, error curves)
+- Clean, reproducible Python: scripts run directly after cloning
+
+## Run it
+git clone <repo-url>
+cd <repo>/Assignment_1
+pip install -r requirements.txt
+python <script_name>.py
