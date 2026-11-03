@@ -1,15 +1,13 @@
-# Machine Learning Projects | MSc Data Science, Trinity College Dublin
+# Machine Learning Projects
 
-Hands-on projects from the Machine Learning module (CS7CS4), built in Python
-with scikit-learn, pandas, NumPy and matplotlib. Each project includes a
-notebook, a runnable script and the dataset.
+These ML mini projects are built in Python with scikit-learn, pandas, NumPy and matplotlib. Each project includes a notebook, a runnable script and the dataset.
 
 ## Projects
 
 | Project | What I built | Techniques |
-
+|---|---|---|
 | [Assignment 1](./Logistic_Regression) | Classifiers on a 2-feature dataset | Logistic regression, linear SVM, feature engineering |
-| [Assignment 2](./Assignment_2) | Regularized regression with polynomial features | Lasso, Ridge, cross-validation, hyperparameter (C) selection | 
+| [Assignment 2](./Assignment_2) | Regularized regression with polynomial features | Lasso, Ridge, cross-validation, hyperparameter (C) selection |
 | [Assignment 3](./Assignment_3) | Classification with model selection | Logistic regression, kNN, cross-validation |
 
 ## Skills demonstrated
