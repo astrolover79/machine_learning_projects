@@ -6,8 +6,8 @@ These ML mini projects are built in Python with scikit-learn, pandas, NumPy and 
 
 | Project | What I built | Techniques |
 |---|---|---|
-| [Assignment 1](./Logistic_Regression) | Classifiers on a 2-feature dataset | Logistic regression, linear SVM, feature engineering |
-| [Assignment 2](./Lasso_Ridge_Regression) | Regularized regression with polynomial features | Lasso, Ridge, cross-validation, hyperparameter (C) selection |
+| [Logistic Regression](./Logistic_Regression) | Classifiers on a 2-feature dataset | Logistic regression, linear SVM, feature engineering |
+| [Lasso Ridge Regression](./Lasso_Ridge_Regression) | Regularized regression with polynomial features | Lasso, Ridge, cross-validation, hyperparameter (C) selection |
 | [Assignment 3](./Assignment_3) | Classification with model selection | Logistic regression, kNN, cross-validation |
 
 ## Skills demonstrated
