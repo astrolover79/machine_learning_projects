@@ -6,11 +6,11 @@ notebook, a runnable script and the dataset.
 
 ## Projects
 
-| Project | What I built | Techniques | Key result |
+| Project | What I built | Techniques |
 |---|---|---|---|
-| [Assignment 1](./Logistic_Regression) | Classifiers on a 2-feature dataset | Logistic regression, linear SVM, feature engineering | <e.g. accuracy / what you found> |
-| [Assignment 2](./Assignment_2) | Regularized regression with polynomial features | Lasso, Ridge, cross-validation, hyperparameter (C) selection | <e.g. best C, how sparsity changed> |
-| [Assignment 3](./Assignment_3) | Classification with model selection | Logistic regression, kNN, cross-validation | <e.g. best k, CV error> |
+| [Assignment 1](./Logistic_Regression) | Classifiers on a 2-feature dataset | Logistic regression, linear SVM, feature engineering |
+| [Assignment 2](./Assignment_2) | Regularized regression with polynomial features | Lasso, Ridge, cross-validation, hyperparameter (C) selection | 
+| [Assignment 3](./Assignment_3) | Classification with model selection | Logistic regression, kNN, cross-validation |
 
 ## Skills demonstrated
 - Model selection and tuning with k-fold cross-validation
